@@ -62,5 +62,5 @@ https://github.com/shubhamdevops2/jenkins-pipeline-shared-resources-micro.git
 
 **Now it will perform multiple stages and will update the existing project to the latest with zero downtime.**
 
-# Please note that for the deployment you must have kubernetes with two worker nodes and helm install on the main system. **
+# Please note that for the deployment you must have kubernetes with two worker nodes and helm install on the main system.
 
